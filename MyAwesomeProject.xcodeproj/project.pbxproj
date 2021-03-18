@@ -24,6 +24,7 @@
 		07697B532603B31800041DC1 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		07697B562603B31800041DC1 /* MyAwesomeProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyAwesomeProject.xcdatamodel; sourceTree = "<group>"; };
 		07697B582603B31800041DC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07697B742603BD2B00041DC1 /* MyLibrary */ = {isa = PBXFileReference; lastKnownFileType = folder; path = MyLibrary; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		07697B3E2603B31700041DC1 = {
 			isa = PBXGroup;
 			children = (
+				07697B742603BD2B00041DC1 /* MyLibrary */,
 				07697B492603B31700041DC1 /* MyAwesomeProject */,
 				07697B482603B31700041DC1 /* Products */,
 			);
